@@ -520,7 +520,7 @@ each request, specify the cookie-store with the =:cookie-store= option:
                                          :cookie-store my-cs}))
 #+END_SRC
 
-You can also us the =get-cookies= function to retrieve the cookies
+You can also use the =get-cookies= function to retrieve the cookies
 from a cookie store:
 
 #+BEGIN_SRC clojure
